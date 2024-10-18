@@ -1,3 +1,30 @@
 body {
-    background-color: purple;
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,24,255,1) 35%, rgba(0,255,40,1) 65%, rgba(255,0,221,1) 100%);
+}
+
+.titleDiv {
+    text-align: center;
+    background-color: black;
+}
+
+.genericDiv {
+    text-align: center;
+    background-color: rgb(24, 121, 0);
+    padding: 50px;
+}
+
+.featuredArt {
+    width: 40%;
+}
+
+.subtitleText {
+    color: grey;
+}
+
+.baseText {
+    color: pink;
+}
+
+.titleText {
+    color: red;
 }
